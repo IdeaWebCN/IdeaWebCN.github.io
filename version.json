@@ -1,5 +1,5 @@
-{ 
-	"version" : "0.1.1",
-	"message" : "新版本"
+{
+    "version": "0.1.1",
+    "message": "新版本发布<a href=\"#\" onclick=\"gui.Shell.openExternal('http: //www.mitaowang.cc/');\">",
+    "onclick": "gui.Shell.openExternal('http://www.mitaowang.cc/');"
 }
-
