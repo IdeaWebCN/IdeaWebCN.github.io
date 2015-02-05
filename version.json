@@ -1,5 +1,5 @@
 {
     "version": "0.1.1",
-    "message": "v0.1.1发布修复迅雷网盘Bug <a href=\"#\" onclick=\"gui.Shell.openExternal('http://soft.idealweb.cn/');\">点击下载。",
+    "message": "v0.1.1发布修复迅雷网盘Bug <a href=\"#\" onclick=\"gui.Shell.openExternal('http://7vih81.com1.z0.glb.clouddn.com/MacXuan.dmg');\">点击下载。",
     "onclick": "gui.Shell.openExternal('http://soft.idealweb.cn/');"
 }
