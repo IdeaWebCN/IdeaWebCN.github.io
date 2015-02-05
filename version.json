@@ -1,5 +1,5 @@
 {
-    "version": "0.1.1",
-    "message": "帅哥推荐你个网站<a href=\"#\" onclick=\"gui.Shell.openExternal('http://www.mitaowang.cc/');\">点击下载。",
-    "onclick": "gui.Shell.openExternal('http://www.mitaowang.cc/');"
+    "version": "0.1.0",
+    "message": "新版本发布<a href=\"#\" onclick=\"gui.Shell.openExternal('http://soft.idealweb.cn/');\">点击下载。",
+    "onclick": "gui.Shell.openExternal('http://soft.idealweb.cn/');"
 }
