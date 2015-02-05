@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
-    "message": "新版本发布<a href=\"#\" onclick=\"gui.Shell.openExternal('http://soft.idealweb.cn/');\">点击下载。",
+    "version": "0.1.1",
+    "message": "v0.1.1发布修复迅雷网盘Bug <a href=\"#\" onclick=\"gui.Shell.openExternal('http://soft.idealweb.cn/');\">点击下载。",
     "onclick": "gui.Shell.openExternal('http://soft.idealweb.cn/');"
 }
