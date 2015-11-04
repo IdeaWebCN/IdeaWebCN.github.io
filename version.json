@@ -1,5 +1,5 @@
 {
     "version": "0.1.1",
-    "message": "v0.1.1发布修复迅雷网盘Bug <a href=\"#\" onclick=\"gui.Shell.openExternal('http://pan.baidu.com/s/1eQBzMEI');\">点击下载。",
+    "message": "v0.1.1发布修复迅雷网盘Bug <a href=\"#\" onclick=\"gui.Shell.openExternal('http://pan.baidu.com/s/1jGzvuF8');\">点击下载。",
     "onclick": "gui.Shell.openExternal('http://soft.idealweb.cn/');"
 }
